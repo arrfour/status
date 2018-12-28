@@ -73,7 +73,7 @@
     </main>
 
     <footer>
-      Status, Copyright © Jim McKenna.<br>
+      <a href="https://home.drewreeves.com/">UP</a>Status, Copyright © Jim McKenna.<br>
     </footer>
   </body>
 </html>
